@@ -1,6 +1,6 @@
 using {inventory} from '../srv/Admin-service';
 
-annotate inventory.Products with @(
+annotate inventory.Products with @odata.draft.enabled @(
     UI.LineItem                : [
         {
             Label: 'Product',
@@ -18,6 +18,11 @@ annotate inventory.Products with @(
             Label      : 'Status',
             Value      : status.name,
             Criticality: status.criticality,
+        },
+        {
+            $Type: 'UI.DataFieldForAction',
+            Action: 'AdminService.updateStatus',
+            Label: 'Update Status'
         }
     ],
 
