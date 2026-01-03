@@ -1,0 +1,4 @@
+code,name,criticality
+O,Out of Stock,1
+I,In Stock,3
+L,Low Stock,2

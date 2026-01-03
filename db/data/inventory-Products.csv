@@ -1,0 +1,6 @@
+ID,name,quantity,price,status_code,imageURL,description,createdAt,createdBy,modifiedAt,modifiedBy
+18241441-1728-49de-9f81-23a52425fb70,MacBook Pro,25,145000,I,macbook.jpg,High-performance laptop for developers,2013-09-29T18:30:00.000Z,createdBy.auz6p@example.net,2002-11-05T18:30:00.000Z,modifiedBy.auz6p@example.org
+18241442-3c75-46f6-ab27-6b07522ec5d3,Dell Monitor 27",8,18000,L,monitor.jpg,4K UHD display monitor,2013-09-29T18:30:00.000Z,createdBy.auz6p@example.net,2002-11-05T18:30:00.000Z,modifiedBy.auz6p@example.org
+18241443-9de3-4f0a-ab84-232919114da4,Logitech Keyboard,0,4500,O,keyboard.jpg,Wireless mechanical keyboard,2013-09-29T18:30:00.000Z,createdBy.auz6p@example.net,2002-11-05T18:30:00.000Z,modifiedBy.auz6p@example.org
+18241444-eea6-4839-87f9-aab5c155d938,HP Mouse,15,1200,I,mouse.jpg,Ergonomic wired mouse,2013-09-29T18:30:00.000Z,createdBy.auz6p@example.net,2002-11-05T18:30:00.000Z,modifiedBy.auz6p@example.org
+18241445-e11e-477c-a9ae-cbdb193bdc37,USB-C Hub,3,2200,L,hub.jpg,Multi-port adapter for laptops,2013-09-29T18:30:00.000Z,createdBy.auz6p@example.net,2002-11-05T18:30:00.000Z,modifiedBy.auz6p@example.org
