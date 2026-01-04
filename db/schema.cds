@@ -16,7 +16,10 @@ define entity Products : managed, cuid {
 }
 
 entity Status : CodeList {
-    key code        : String;
-        name        : String;
+    key code        : String enum {
+            OutOfStock = 'O';
+            InStock = 'I';
+            LowStock = 'L'
+        };
         criticality : Integer;
 }
